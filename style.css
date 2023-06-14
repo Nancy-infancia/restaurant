@@ -1,0 +1,19 @@
+.name{
+    text-align:center;
+    color:#f526e4;
+    margin-bottom: 0%;
+}
+.description{
+    text-align: center;
+    margin-top: 1%;
+}
+.about,.registration,.price{
+    margin-right: 15%;
+    margin-left: 5%;
+}
+.about{
+    margin-left: 7%;
+}
+.foods{
+    margin-left: 35%;
+}
